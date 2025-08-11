@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shengxio/shengxio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, I'm Sheng Xiong 👋
+## Hi there, I'm Sheng Xiong 👋
 
 I’m a Data Scientist with deep expertise in Artificial Intelligence, Machine Learning, and Data Analytics. Skilled in translating complex datasets into impactful solutions across multiple industries.
 
