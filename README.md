@@ -21,7 +21,7 @@ I’m a Data Scientist with deep expertise in Artificial Intelligence, Machine L
 - Data Pipelines: SQL & NoSQL ETL  
 - Statistics & Analytical Modeling  
 - Tools: Git • CI/CD workflows  
-- Cloud: AWS (IAM, S3, EC2, Amplify) • GCP (Vertex AI)  
+- Cloud: AWS (IAM, S3, EC2, Amplify) • Azure
 - LLM Fine-Tuning: OpenAI GPT-3/4 • Llama 2 • OPTs  
 
 **Approach:**  
