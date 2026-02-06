@@ -25,13 +25,13 @@ I’m a Data Scientist with deep expertise in Artificial Intelligence, Machine L
 - LLM Fine-Tuning: OpenAI GPT-3/4 • Llama 2 • OPTs  
 
 **Approach:**  
-I value clear communication and meticulous attention to detail, enabling me to deliver data-driven projects that drive business growth efficiently.
+I value clear communication and meticulous attention to detail, enabling me to deliver data-driven projects that drive real world impact.
 
 **What I’m working on:**  
 1. MiMinions.ai: an agentic framework that can be used to run on your computer.
-2. Lanterns.fun: an organization which intends to empower humans with AI.
-   a. Theresia-forit: a webapp which allows users to identify and reverse-traverse reality/entity through text.
-3. Anything that involve application of agentic AI.
+2. Lanterns.fun: an organization which exists to illuminate the hidden reasoning behind information and AI-driven decisions — so humans remain capable of judgment in an automated world.
+3. Theresia-forit: a webapp which allows users to identify and reverse-traverse reality/entity through text.
+4. Not sure yet but definitely involves math, data, software, machine learning and AI.
 
 **Let’s connect:**  
 - [LinkedIn](https://www.linkedin.com/in/sheng-xiong-ding/)  
